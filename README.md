@@ -4,7 +4,11 @@
 -Brian Astorga *21.862.127-9*
 
 -Matías Gutiérrez *21.733.537-k*
+### Metodo De Inicio:
 
+> g++ *.cpp -o exec
+> 
+> ./exec
 ### Main:
 
 linea_17:  {clase: "Sistema"; nombre: "sistema"}
