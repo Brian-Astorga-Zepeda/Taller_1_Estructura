@@ -1,0 +1,21 @@
+El señor de los anillos, 978-0261102385, J.R.R. Tolkien, 1954-07-29, Una épica historia de la lucha entre el bien y el mal en la Tierra Media, centrada en la misión de destruir el Anillo Único.
+Cien años de soledad, 978-0060883287, Gabriel García Márquez, 1967-05-30, Una novela que sigue la historia de la familia Buendía a lo largo de siete generaciones en el ficticio pueblo de Macondo.
+1984, 978-0451524935, George Orwell, 1949-06-08, Una distopía que explora los peligros del totalitarismo y la vigilancia extrema en una sociedad ficticia.
+Don Quijote de la Mancha, 978-0060934347, Miguel de Cervantes, 1605-01-16, La historia de un hidalgo que, tras leer muchos libros de caballería, decide convertirse en caballero andante y vivir sus propias aventuras.
+Orgullo y prejuicio, 978-0141439518, Jane Austen, 1813-01-28, Una novela que examina las costumbres y el matrimonio en la sociedad inglesa de principios del siglo XIX.
+Matar a un ruiseñor, 978-0061120084, Harper Lee, 1960-07-11, Una novela sobre la injusticia racial en el sur de Estados Unidos, narrada a través de los ojos de una niña.
+La odisea, 978-0140268867, Homero, 800 a.C., Una epopeya griega que narra las aventuras de Odiseo en su viaje de regreso a Ítaca tras la Guerra de Troya.
+La metamorfosis, 978-0141046367, Franz Kafka, 1915-10-15, La historia de Gregor Samsa, quien un día despierta convertido en un insecto gigante y enfrenta las consecuencias de su transformación.
+Crimen y castigo, 978-0143058144, Fiódor Dostoyevski, 1866-12-15, Una novela que explora las profundidades psicológicas de un joven estudiante que planea y ejecuta un asesinato.
+En busca del tiempo perdido, 978-0143039587, Marcel Proust, 1913-11-14, Una extensa serie de novelas que exploran los recuerdos y la memoria del narrador mientras reflexiona sobre su vida y la sociedad.
+National Geographic, 978-1426208885, Varios autores, 128, Julio
+TIME, 978-1618939942, Varios autores, 99, Marzo
+Scientific American, 978-1442369884, Varios autores, 145, Septiembre
+Nature, 978-0199582204, Varios autores, 214, Mayo
+The Economist, 978-1541736453, Varios autores, 44, Abril
+Popular Science, 978-1607962764, Varios autores, 56, Junio
+Forbes, 978-1250169693, Varios autores, 77, Agosto
+Wired, 978-1524796865, Varios autores, 32, Octubre
+Harvard Business Review, 978-1633692598, Varios autores, 75, Noviembre
+National Review, 978-0982044316, Varios autores, 103, Diciembre
+
