@@ -6,7 +6,7 @@
 -Matías Gutiérrez *21.733.537-k*
 ### Metodo De Inicio:
 
-> g++ *.cpp -o exec
+> g++ -g -o exec main.cpp Sistema.cpp Usuario.cpp MaterialBiblioagrafico Revista.cpp Libro.cpp
 > 
 > ./exec
 ### Main:
