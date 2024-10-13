@@ -1,8 +1,9 @@
 # Taller_1_Estructura
 
 ## Integrantes:
-Brian Astorga *21.862.127-9*
-Matías Gutiérrez *21.733.537-k*
+-Brian Astorga *21.862.127-9*
+
+-Matías Gutiérrez *21.733.537-k*
 
 ### Main:
 
